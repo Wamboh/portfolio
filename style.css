@@ -1,0 +1,19 @@
+html{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+.container{
+    height: 20vh;
+    width: 100vh;
+    display: grid;
+    gap: 10px;
+
+}
+
+
